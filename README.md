@@ -17,6 +17,12 @@
 # under the License.
 #
 
+**DEPRECATION NOTICE**
+
+This repository is deprecated.
+Active development now continues in the [ResilientDB Monorepo](https://github.com/apache/incubator-resilientdb).
+
+The Create Resilient App can be found at [ecosystem/tools/create-resilient-app](https://github.com/apache/incubator-resilientdb/tree/master/ecosystem/tools/create-resilient-app).
 
 # Create Resilient App
 
